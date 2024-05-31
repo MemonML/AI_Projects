@@ -1,1 +1,2 @@
 
+This project demonstrates the use of the openai Python library to interact with OpenAI's GPT-3.5 Turbo model, enabling tasks like text summarization, structured output generation, rewriting instructions, and creative text generation. The script installs the library, defines functions to make API requests, and showcases various examples to illustrate the AI's capabilities in handling detailed prompts to produce desired textual outputs effectively. This setup can be used for applications such as content creation, customer support automation, and educational tools.
